@@ -35,4 +35,6 @@ By combining predictive modeling, dimensionality reduction, and unsupervised lea
 - Cluster Analysis using K-Means clustering
 - Handling Class Imbalance by tuning Weights
 
+## Prepared By
+Shruti Ramani and Srijana Adhikari
 
