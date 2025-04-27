@@ -14,12 +14,12 @@ Specifically, the project aims to:
 By combining predictive modeling, dimensionality reduction, and unsupervised learning, this project provides a comprehensive approach to both predictive analytics and patient profiling for hospital readmission management.
 
 ## Data
-- The dataset is stored in the diabetes_data.csv file.
+- The dataset is stored in the diabetic_data.csv file.
 - It contains patient encounter records including demographics, medical history, and hospital visit information.
 
 ## How to Run
 1. Clone this repository.
-2. Download the dataset stored in diabetes_data.csv file.
+2. Download the dataset stored in diabetic_data.csv file.
 3. Open the `Hospital Readmission Prediction.ipynb` notebook.
 4. Ensure you have the required libraries installed:
    - `pandas`
